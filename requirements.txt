@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+numpy>=1.26.0
+Pillow
+torch
+torchvision
+flask
+flask-cors
+python-dotenv
+twilio
+requests
