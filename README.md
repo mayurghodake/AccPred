@@ -12,7 +12,7 @@ An AI-powered system that uses computer vision (ResNet18) to detect traffic acci
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Streamlit
+- **Frontend**: React 
 - **AI/ML**: PyTorch, Torchvision (ResNet18), OpenCV
 - **Communication**: Twilio API (SMS & Voice)
 - **Language**: Python
