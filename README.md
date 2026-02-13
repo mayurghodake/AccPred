@@ -63,7 +63,7 @@ An AI-powered system that uses computer vision (ResNet18) to detect traffic acci
 
 1. **Start the Application**
    ```bash
-   streamlit run app.py
+   React run app.py
    ```
 
 2. **Using the Dashboard**
@@ -74,7 +74,7 @@ An AI-powered system that uses computer vision (ResNet18) to detect traffic acci
 
 ## 📂 Project Structure
 
-- `app.py`: Main Streamlit dashboard application.
+- `app.py`: Main React dashboard application.
 - `app_prediction.py`: Core logic for accident prediction (`AccidentPredictionEnsemble`) and Twilio integration (`TwilioAlert`).
 - `api_server.py`: Flask API server (alternative backend).
 - `requirements.txt`: Python dependencies.
